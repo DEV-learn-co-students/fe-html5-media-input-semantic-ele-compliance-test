@@ -1,9 +1,4 @@
----
-language: html
-tags: html5, semantic elements, forms, input, audio, video, media
-type: lecture
-resources: 0
----
+
 
 ## HTML5 Media & Input ~ 20min
 

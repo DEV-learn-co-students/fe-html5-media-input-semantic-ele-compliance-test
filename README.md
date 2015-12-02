@@ -9,3 +9,4 @@
 [Slides 2](https://docs.google.com/presentation/d/1R2usO7eha-xvU6McOYjR8n2papGK-gzW_LwO4AM5NTA/edit?usp=sharing)
 
 [Slides 3](https://docs.google.com/presentation/d/1tl0aB0EUOhLMi1Xr19UCAUTCY20FRqEDv-oDGg2cTkg/edit?usp=sharing)
+<a href='https://learn.co/lessons/fe-html5-media-input-semantic-ele' data-visibility='hidden'>View this lesson on Learn.co</a>
